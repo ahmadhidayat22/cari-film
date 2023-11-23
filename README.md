@@ -10,16 +10,16 @@ The website searches for a list of films using the React framework using API TMD
 install terlebih dahulu [git](https://git-scm.com/downloads)
 
 ```bash
-git clone https://github.com/ahmadhidayat22/cari-film.git
-cd cari-film
-npm install
-npm start
+$ git clone https://github.com/ahmadhidayat22/cari-film.git
+$ cd cari-film
+$ npm install
+$ npm start
 ```
 
 ## Run
 
 ```bash
-npm start
+$ npm start
 ```
 
 ## Contributing
