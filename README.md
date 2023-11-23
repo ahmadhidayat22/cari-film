@@ -22,6 +22,12 @@ $ npm start
 $ npm start
 ```
 
+
+## Demo
+```bash
+https://film-kuy.vercel.app
+```
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
