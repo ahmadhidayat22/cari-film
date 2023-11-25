@@ -24,9 +24,9 @@ $ npm start
 
 
 ## Demo
-```bash
+
 https://film-kuy.vercel.app
-```
+
 
 ## Contributing
 
